@@ -1,0 +1,39 @@
+{
+  "agents": [
+    {
+      "id": "general-purpose",
+      "name": "General Purpose",
+      "description": "General-purpose agent for complex, multi-step tasks"
+    },
+    {
+      "id": "architect",
+      "name": "Architect",
+      "description": "Lead architect - analyzes code, designs solutions, writes ADRs"
+    },
+    {
+      "id": "quality-reviewer",
+      "name": "Quality Reviewer",
+      "description": "Reviews code for security, performance, and data loss issues"
+    },
+    {
+      "id": "debugger",
+      "name": "Debugger",
+      "description": "Expert debugger for complex issue diagnosis and root cause analysis"
+    },
+    {
+      "id": "refactoring-specialist",
+      "name": "Refactoring Specialist",
+      "description": "Expert in safe code transformation and design pattern application"
+    },
+    {
+      "id": "explore",
+      "name": "Explore",
+      "description": "Fast agent for exploring codebases, finding files, and searching code"
+    },
+    {
+      "id": "plan",
+      "name": "Plan",
+      "description": "Agent for planning implementation steps"
+    }
+  ]
+}

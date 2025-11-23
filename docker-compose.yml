@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    ports:
+      - "3456:80"
+    volumes:
+      - ./public/config:/usr/share/nginx/html/config:ro
+    environment:
+      - NODE_ENV=production
