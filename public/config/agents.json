@@ -34,6 +34,16 @@
       "id": "plan",
       "name": "Plan",
       "description": "Agent for planning implementation steps"
+    },
+    {
+      "id": "golang-pro",
+      "name": "GoLang Dev",
+      "description": "Go expert for architecting, writing, and refactoring robust, concurrent Go applications"
+    },
+    {
+      "id": "react-pro",
+      "name": "React Dev",
+      "description": "React specialist for creating and modifying components following best practices"
     }
   ]
 }
